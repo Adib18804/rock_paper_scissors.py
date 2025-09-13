@@ -1,4 +1,4 @@
-Rock, Paper, Scissors Game 🪨📄✂️
+Rock, Paper, Scissors Game 
 This is a simple console-based Rock, Paper, Scissors game written in Python. It's a great project for beginners to learn about basic programming concepts like loops, conditional statements, and user input.
 
 Features
